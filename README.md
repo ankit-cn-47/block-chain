@@ -1,7 +1,7 @@
 # block-chain
 
-* consist of a samrt contract for hyperledger version 2 named beelock-chain
-* and a client application to post and query transaction to the universal ledger
+* consist of a smart contract for hyperledger version 2 named beelock-cheyn
+* and a client application named beelock-cheyn-client to post and query transaction to the universal ledger
 
 # tools used
 * vs code 
