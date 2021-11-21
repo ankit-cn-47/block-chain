@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "beelockCheynerExists",
+        "transactionLabel": "A test beelockCheynerExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createBeelockCheyner",
+        "transactionLabel": "A test createBeelockCheyner transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readBeelockCheyner",
+        "transactionLabel": "A test readBeelockCheyner transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateBeelockCheyner",
+        "transactionLabel": "A test updateBeelockCheyner transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteBeelockCheyner",
+        "transactionLabel": "A test deleteBeelockCheyner transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
